@@ -27,7 +27,6 @@ C:\Белоногов\bavc.ru\src\bavc.ru\bin\System.Web.Razor.xml
 C:\Белоногов\bavc.ru\src\bavc.ru\bin\System.Web.WebPages.xml
 C:\Белоногов\bavc.ru\src\bavc.ru\bin\System.Web.WebPages.Deployment.xml
 C:\Белоногов\bavc.ru\src\bavc.ru\bin\System.Web.WebPages.Razor.xml
-C:\Белоногов\bavc.ru\src\bavc.ru\obj\Debug\bavc.ru.csprojResolveAssemblyReference.cache
 C:\Белоногов\bavc.ru\src\bavc.ru\obj\Debug\bavc.ru.dll
 C:\Белоногов\bavc.ru\src\bavc.ru\obj\Debug\bavc.ru.pdb
 C:\Белоногов\bavc.ru\src\bavc.ru\bin\Antlr3.Runtime.dll
