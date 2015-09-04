@@ -18,7 +18,7 @@ namespace bavc.ru.Helpers
             File.WriteAllText("shell.log", outputString);
             outputString = outputString.Replace("\n", "<br>");
             File.WriteAllText("shell.web", outputString);
-            return HttpContext.Current.Server.HtmlEncode(outputString);
+            return outputString;
         }
     }
 }
