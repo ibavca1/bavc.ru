@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd /home/Publish/bavc.ru
+
+git pull
+
+rm -frv /var/www/bavc.ru/*
+
+cp -frv bin/* /var/www/bavc.ru
