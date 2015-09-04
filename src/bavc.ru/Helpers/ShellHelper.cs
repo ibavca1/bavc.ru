@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Web;
+using System.IO;
 
 namespace bavc.ru.Helpers
 {
@@ -16,6 +17,7 @@ namespace bavc.ru.Helpers
             processStartInfo.RedirectStandardOutput = true;
             Process process = Process.Start(processStartInfo);
             string outputString = process.StandardOutput.ReadToEnd();
+            File.WriteAllText("shell.log", outputString);
             process.WaitForExit();
             return outputString;
         }
