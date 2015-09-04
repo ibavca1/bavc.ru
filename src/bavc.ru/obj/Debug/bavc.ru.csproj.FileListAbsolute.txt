@@ -70,6 +70,5 @@ D:\bavc.ru\src\bavc.ru\bin\System.Web.Razor.xml
 D:\bavc.ru\src\bavc.ru\bin\System.Web.WebPages.xml
 D:\bavc.ru\src\bavc.ru\bin\System.Web.WebPages.Deployment.xml
 D:\bavc.ru\src\bavc.ru\bin\System.Web.WebPages.Razor.xml
-D:\bavc.ru\src\bavc.ru\obj\Debug\bavc.ru.csprojResolveAssemblyReference.cache
 D:\bavc.ru\src\bavc.ru\obj\Debug\bavc.ru.dll
 D:\bavc.ru\src\bavc.ru\obj\Debug\bavc.ru.pdb

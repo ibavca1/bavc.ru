@@ -13,7 +13,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/04/2015 22:16:48</publishTime>
     </File>
     <File Include="bin/bavc.ru.dll">
-      <publishTime>09/04/2015 23:20:55</publishTime>
+      <publishTime>09/04/2015 23:25:22</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
       <publishTime>09/04/2015 22:16:48</publishTime>
