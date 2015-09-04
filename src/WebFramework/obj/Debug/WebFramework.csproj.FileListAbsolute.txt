@@ -1,0 +1,5 @@
+C:\Белоногов\bavc.ru\src\WebFramework\bin\Debug\WebFramework.dll
+C:\Белоногов\bavc.ru\src\WebFramework\bin\Debug\WebFramework.pdb
+C:\Белоногов\bavc.ru\src\WebFramework\obj\Debug\WebFramework.csprojResolveAssemblyReference.cache
+C:\Белоногов\bavc.ru\src\WebFramework\obj\Debug\WebFramework.dll
+C:\Белоногов\bavc.ru\src\WebFramework\obj\Debug\WebFramework.pdb
