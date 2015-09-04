@@ -1,9 +1,10 @@
 ﻿@model string
-<script language="javascript">
+@*<script language="javascript">
     $("#rrq").html("@Model");
-</script>
+</script>*@
 <div>
     <h2>Complited.</h2>
     <hr/>
-    <div id="rrq"></div>
+    @*<div id="rrq"></div>*@
+    @Html.Raw(@Model)
 </div>
