@@ -72,3 +72,5 @@ D:\bavc.ru\src\bavc.ru\bin\System.Web.WebPages.Razor.xml
 D:\bavc.ru\src\bavc.ru\obj\Release\bavc.ru.csprojResolveAssemblyReference.cache
 D:\bavc.ru\src\bavc.ru\obj\Release\bavc.ru.dll
 D:\bavc.ru\src\bavc.ru\obj\Release\bavc.ru.pdb
+D:\bavc.ru\src\bavc.ru\bin\NLog.dll
+D:\bavc.ru\src\bavc.ru\bin\NLog.xml
