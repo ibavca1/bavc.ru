@@ -17,8 +17,10 @@ namespace bavc.ru.Helpers
             processStartInfo.RedirectStandardOutput = true;
             Process process = Process.Start(processStartInfo);
             string outputString = process.StandardOutput.ReadToEnd();
-            File.WriteAllText("shell.log", outputString);
             process.WaitForExit();
+            File.WriteAllText("~/shell.log", outputString);
+            outputString = outputString.Replace("\n", "<br>");
+            File.WriteAllText("~/shell.web", outputString);
             return outputString;
         }
     }
