@@ -4,4 +4,6 @@ cd /home/Publish/bavc.ru
 
 git pull
 
-cp -frv * /var/www/bavc.ru
+rm -frv /var/www/bavc.ru/*
+
+cp -frv bin/* /var/www/bavc.ru
