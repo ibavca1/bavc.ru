@@ -1,4 +1,6 @@
-﻿using System.Diagnostics;
+﻿using System;
+using System.Diagnostics;
+using System.Threading;
 
 namespace bavc.ru.Helpers
 {
@@ -16,7 +18,10 @@ namespace bavc.ru.Helpers
             if (process != null)
             {
                 string outputString = process.StandardOutput.ReadToEnd();
-                process.WaitForExit();
+                while (!process.HasExited)
+                {
+                    process.WaitForExit();
+                }
                 return outputString;
             }
             else return "Error";
