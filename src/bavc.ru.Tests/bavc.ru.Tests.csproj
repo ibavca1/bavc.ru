@@ -103,6 +103,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnitTestBavc.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App.config" />
@@ -114,6 +115,10 @@
     <ProjectReference Include="..\bavc.ru\bavc.ru.csproj">
       <Project>{701CF150-7EBB-4D3D-B058-A1B0BB324CBB}</Project>
       <Name>bavc.ru</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WebFramework\WebFramework.csproj">
+      <Project>{1a7a9a20-a4fa-4ea2-943d-40e0abf39227}</Project>
+      <Name>WebFramework</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

@@ -34,3 +34,5 @@ C:\Белоногов\bavc.ru\src\bavc.ru.Tests\bin\Debug\System.Web.Optimizatio
 C:\Белоногов\bavc.ru\src\bavc.ru.Tests\obj\Debug\bavc.ru.Tests.csprojResolveAssemblyReference.cache
 C:\Белоногов\bavc.ru\src\bavc.ru.Tests\obj\Debug\bavc.ru.Tests.dll
 C:\Белоногов\bavc.ru\src\bavc.ru.Tests\obj\Debug\bavc.ru.Tests.pdb
+C:\Белоногов\bavc.ru\src\bavc.ru.Tests\bin\Debug\WebFramework.dll
+C:\Белоногов\bavc.ru\src\bavc.ru.Tests\bin\Debug\WebFramework.pdb
