@@ -34,3 +34,4 @@ C:\Белоногов\bavc.ru\src\bavc.ru\bin\System.Web.Optimization.dll
 C:\Белоногов\bavc.ru\src\bavc.ru\bin\WebGrease.dll
 C:\Белоногов\bavc.ru\src\bavc.ru\bin\Antlr3.Runtime.pdb
 C:\Белоногов\bavc.ru\src\bavc.ru\bin\System.Web.Optimization.xml
+C:\Белоногов\bavc.ru\src\bavc.ru\obj\Release\bavc.ru.csprojResolveAssemblyReference.cache
