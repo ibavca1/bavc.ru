@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 using System.Web;
 using System.Web.Mvc;
 using bavc.ru.Helpers;
@@ -16,6 +17,7 @@ namespace bavc.ru.Controllers
         {
             ViewBag.Title = "Shell";
             string o = ShellHelper.RunShell();
+            Thread.Sleep(TimeSpan.FromSeconds(5));
             return View((object)o);
         }
 

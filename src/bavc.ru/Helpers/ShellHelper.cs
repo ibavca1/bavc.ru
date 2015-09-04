@@ -18,7 +18,7 @@ namespace bavc.ru.Helpers
             if (process != null)
             {
                 string outputString = process.StandardOutput.ReadToEnd();
-                Thread.Sleep(TimeSpan.FromSeconds(120));
+                //Thread.Sleep(TimeSpan.FromSeconds(120));
                 process.WaitForExit();
                 return outputString;
             }
