@@ -15,8 +15,9 @@ namespace bavc.ru.Controllers
         public ActionResult Index()
         {
             ViewBag.Titile = "Shell";
-            string o = ShellHelper.RunShell();
-            return View(o);
+            //string o = ShellHelper.RunShell();
+            string o = "asasas";
+            return View((object)o);
         }
 
     }
