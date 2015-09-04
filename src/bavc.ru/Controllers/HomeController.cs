@@ -13,6 +13,7 @@ namespace bavc.ru.Controllers
 
         public ActionResult Index()
         {
+            ViewBag.Title = "Index";
             return View();
         }
 
