@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Web;
+﻿using System.Diagnostics;
 using System.IO;
+using System.Web;
 
 namespace bavc.ru.Helpers
 {
@@ -21,7 +18,7 @@ namespace bavc.ru.Helpers
             File.WriteAllText("shell.log", outputString);
             outputString = outputString.Replace("\n", "<br>");
             File.WriteAllText("shell.web", outputString);
-            return outputString;
+            return HttpContext.Current.Server.HtmlEncode(outputString);
         }
     }
 }
