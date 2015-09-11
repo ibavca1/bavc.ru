@@ -23,6 +23,7 @@ namespace WebFramework.Web
 
         public WebPage()
         {
+            PageType = typeof (TModel);
             Content = new WebContent();
             FuncParse = null;
         }
@@ -40,9 +41,6 @@ namespace WebFramework.Web
             Content.InnerHtml = html;
         }
 
-        public Type PageType
-        {
-            get { return typeof (TModel); }
-        }
+        public Type PageType { get; private set; }
     }
 }
