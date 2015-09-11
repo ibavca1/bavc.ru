@@ -34,3 +34,7 @@ C:\Белоногов\bavc.ru\src\bavc.ru\bin\System.Web.Optimization.dll
 C:\Белоногов\bavc.ru\src\bavc.ru\bin\WebGrease.dll
 C:\Белоногов\bavc.ru\src\bavc.ru\bin\Antlr3.Runtime.pdb
 C:\Белоногов\bavc.ru\src\bavc.ru\bin\System.Web.Optimization.xml
+C:\Белоногов\bavc.ru\src\bavc.ru\obj\Debug\bavc.ru.csprojResolveAssemblyReference.cache
+C:\Белоногов\bavc.ru\src\bavc.ru\bin\HtmlAgilityPack.dll
+C:\Белоногов\bavc.ru\src\bavc.ru\bin\HtmlAgilityPack.pdb
+C:\Белоногов\bavc.ru\src\bavc.ru\bin\HtmlAgilityPack.xml

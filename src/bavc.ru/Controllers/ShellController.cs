@@ -16,7 +16,6 @@ namespace bavc.ru.Controllers
         {
             ViewBag.Titile = "Shell";
             string o = ShellHelper.RunShell();
-            //string o = "asasas";
             return View((object)o);
         }
 

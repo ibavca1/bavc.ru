@@ -36,3 +36,6 @@ C:\Белоногов\bavc.ru\src\bavc.ru.Tests\obj\Debug\bavc.ru.Tests.dll
 C:\Белоногов\bavc.ru\src\bavc.ru.Tests\obj\Debug\bavc.ru.Tests.pdb
 C:\Белоногов\bavc.ru\src\bavc.ru.Tests\bin\Debug\WebFramework.dll
 C:\Белоногов\bavc.ru\src\bavc.ru.Tests\bin\Debug\WebFramework.pdb
+C:\Белоногов\bavc.ru\src\bavc.ru.Tests\bin\Debug\HtmlAgilityPack.dll
+C:\Белоногов\bavc.ru\src\bavc.ru.Tests\bin\Debug\HtmlAgilityPack.pdb
+C:\Белоногов\bavc.ru\src\bavc.ru.Tests\bin\Debug\HtmlAgilityPack.xml
