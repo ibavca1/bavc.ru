@@ -46,7 +46,7 @@ namespace bavc.ru.Tests
         public void TestWebPageMain()
         {
             var page = new WebPage<MyPage>();
-            page.FuncParse = () => { return new MyPage(); };
+            page.FuncParse = () => new MyPage();
             var pageModel = page.Model;
         }
     }

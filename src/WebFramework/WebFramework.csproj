@@ -45,10 +45,12 @@
   <ItemGroup>
     <Compile Include="Interfaces\IMessage.cs" />
     <Compile Include="Interfaces\IMyQueue.cs" />
+    <Compile Include="Interfaces\IWebPage.cs" />
     <Compile Include="PaserQueue\InnerQueue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Web\WebContent.cs" />
     <Compile Include="Web\WebPage.cs" />
+    <Compile Include="Web\WebSite.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
