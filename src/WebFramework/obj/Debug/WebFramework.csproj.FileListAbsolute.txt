@@ -3,6 +3,14 @@ C:\Белоногов\bavc.ru\src\WebFramework\bin\Debug\WebFramework.pdb
 C:\Белоногов\bavc.ru\src\WebFramework\obj\Debug\WebFramework.csprojResolveAssemblyReference.cache
 C:\Белоногов\bavc.ru\src\WebFramework\obj\Debug\WebFramework.dll
 C:\Белоногов\bavc.ru\src\WebFramework\obj\Debug\WebFramework.pdb
+<<<<<<< HEAD
 C:\Белоногов\bavc.ru\src\WebFramework\bin\Debug\HtmlAgilityPack.dll
 C:\Белоногов\bavc.ru\src\WebFramework\bin\Debug\HtmlAgilityPack.pdb
 C:\Белоногов\bavc.ru\src\WebFramework\bin\Debug\HtmlAgilityPack.xml
+=======
+D:\bavc.ru\src\WebFramework\bin\Debug\WebFramework.dll
+D:\bavc.ru\src\WebFramework\bin\Debug\WebFramework.pdb
+D:\bavc.ru\src\WebFramework\obj\Debug\WebFramework.csprojResolveAssemblyReference.cache
+D:\bavc.ru\src\WebFramework\obj\Debug\WebFramework.dll
+D:\bavc.ru\src\WebFramework\obj\Debug\WebFramework.pdb
+>>>>>>> 5ee0f3bc722e3c7b1733292632d921754ff19ffc
